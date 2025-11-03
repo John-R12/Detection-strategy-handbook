@@ -63,7 +63,7 @@ level: high
 | Validation |	Tested against both benign and malicious data |
 | Documentation |	Metadata and mapping complete |
 
-📚 References
+## 📚 References
 - Sigma HQ – Rule Development Guidelines
 - SANS — Detection Rule Engineering and QA
 - Elastic — SIEM Rule Writing Best Practices
